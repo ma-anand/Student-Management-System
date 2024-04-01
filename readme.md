@@ -1,4 +1,4 @@
-npm install react-scripts --save-dev
+```npm install react-scripts --save-dev```
 
 
 GitHub Forks and Pull Requests | Step by Step
