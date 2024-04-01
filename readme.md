@@ -1,3 +1,11 @@
+```
+To solve this error
+
+> student@0.1.0 start
+> react-scripts start
+
+sh: 1: react-scripts: not found
+```
 ```npm install react-scripts --save-dev```
 
 
